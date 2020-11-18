@@ -1,3 +1,6 @@
+# Guitar Pedals Store
+![](./screenshot.png)
+
 ###################
 What is CodeIgniter
 ###################
