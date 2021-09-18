@@ -1,4 +1,4 @@
-# Guitar Pedals Store
+# E-Commerce
 ![](./screenshot.png)
 
 ###################
